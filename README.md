@@ -1,7 +1,3 @@
-# Paginas_SPA_Angular
-Repositório criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Santander Bootcamp Fullstack Developer.
-
-
 <h1> Sejam bem-vindos!!! </h1>
 <h2> Esse é o meu Repositório de Trabalhos com Páginas SPA e Angular. </h2>
 
@@ -11,7 +7,7 @@ Repositório criado para documentar todo o meu passo a passo, projetos e codigos
 
 
 <h2> 🎯 Objetivo </h2>
-O projeto consiste em instalar e configurar todo o ambiente de trabalho, e assim criar e execultar a primeira aplicação Angular dentro do programa Santander Bootcamp Fullstack Developer. 
+O projeto consiste em instalar e configurar todo o ambiente de trabalho, utilizar o Angular Material e construir uma Single Page Application, tudo dentro do programa Santander Bootcamp Fullstack Developer. 
 
 
 
